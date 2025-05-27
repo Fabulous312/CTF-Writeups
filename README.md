@@ -5,7 +5,7 @@
 Hi, I’m **Jarius Anston** — a cybersecurity enthusiast and malware analyst passionate about reverse engineering, threat research, and offensive security.
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/jarius-anston-269907187)
-Check out my medium: https://medium.com/@jarius.ans10/captcha-malware-analysis-verification-02d5fc2e1473
+🔗Check out my medium (https://medium.com/@jarius.ans10/captcha-malware-analysis-verification-02d5fc2e1473)
 
 ---
 
